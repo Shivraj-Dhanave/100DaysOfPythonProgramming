@@ -3,6 +3,9 @@
 # Basic print function
 print('Hello World')
 
+# Basic print function
+print('Hello World everyone')
+
 # Print on new line using \n
 print('Hello World\nHello World')
 
